@@ -1,3 +1,5 @@
+"use client"
+import { RecoilRoot } from 'recoil'
 import './globals.css'
 import { Inter } from 'next/font/google'
 
@@ -10,8 +12,11 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
+    <RecoilRoot>
     <html lang="en">
       <body className={inter.className}>{children}</body>
     </html>
+    </RecoilRoot>
+    
   )
 }

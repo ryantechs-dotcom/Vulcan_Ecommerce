@@ -1,0 +1,30 @@
+ [      
+        {
+            "id": "price_1NHHxWCV4pbmGhAWHpLapFdJ",
+            "name": "Joggers",
+            "price": 15.99,
+            "image": "/macbookair.png",
+            "quantity": 1
+        },
+        {
+            "id": "price_1NHHx6CV4pbmGhAWoQTBD71p",
+            "name": "Hoodie",
+            "price": 20.99,
+            "image": "/shoe.webp",
+            "quantity": 1
+        },
+        {
+            "id": "price_1NHHwICV4pbmGhAWW3Dvb96O",
+            "name": "Sunglasses",
+            "price": 5.99,
+            "image": "/football.webp",
+            "quantity": 1
+        },
+        {
+            "id": "price_1NBJBiCV4pbmGhAWt9ofHHYB",
+            "name": "Shirt",
+            "price": 13.99,
+            "image": "/iphone-14-pro.jfif",
+            "quantity": 1
+        }
+]
