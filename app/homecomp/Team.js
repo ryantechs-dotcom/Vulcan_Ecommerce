@@ -66,7 +66,7 @@ function Team() {
                         Meet our team of Engineers, designers, and product managers.
                     </h3>
                     <p class="text-black mt-3">
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard dummy.
+                        Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industrys standard dummy.
                     </p>
                 </div>
                 <div class="mt-12">
