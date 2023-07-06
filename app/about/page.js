@@ -5,24 +5,22 @@ function About() {
   return (
     <div>
         <Navbar/>
-    <div class="container my-24 px-6 mx-auto">
 
-    <section class="mb-32 text-gray-800 text-center">
-
-      <div class="flex justify-center">
-        <div class="max-w-[800px]">
-          <h2 class="text-5xl md:text-6xl xl:text-7xl font-bold tracking-tight mb-12">
-            Vulcan <br />
-            <span class="text-blue-600">Who Are We?</span>
-          </h2>
-          <p class="text-gray-500 text-lg">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima officia consequatur
-            adipisci tenetur repudiandae rerum quos.
-          </p>
-        </div>
-      </div>
-
-    </section>
+        <section class="mb-32 text-gray-800 text-center pt-10 pb-10 bg-[#bdcad2] border-b-4 border-[#6e7f80]">
+            <div class="flex justify-center">
+            <div class="max-w-[800px]">
+                <h2 class="text-5xl md:text-6xl xl:text-7xl font-bold tracking-tight mb-12">
+                Vulcan <br />
+                <span class="text-white">Who Are We?</span>
+                </h2>
+                <p class="text-white text-lg">
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima officia consequatur
+                adipisci tenetur repudiandae rerum quos.
+                </p>
+            </div>
+            </div>
+        </section>
+    <div class="container my-20 px-6 mx-auto">
 
     <section class="mb-32 text-gray-800 background-radial-gradient">
 

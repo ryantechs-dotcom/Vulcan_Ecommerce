@@ -36,7 +36,7 @@ const Product = ({ product }) => {
                 </div>
 
                 <button
-                    className='bg-red-600 text-white py-4 px-12 mt-4 block mx-auto hover:bg-red-800'
+                    className='bg-[#6699CC] text-white py-4 px-12 mt-4 block mx-auto hover:bg-blue-800'
                     onClick={addItemsToCart}>Add To Cart</button>
 
             </div>
