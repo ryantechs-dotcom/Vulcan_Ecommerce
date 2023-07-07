@@ -7,7 +7,7 @@ const News = () => {
 
   var apiKey = 'd560fb3300d94b3389b9cfcbb63702cf';
   var type = 'crypto';
-  var date = '2023-06-08';
+  var date = '2023-07-01';
   var sortBy = 'popularity';
   const url = `https://newsapi.org/v2/everything?q=${type}&from=${date}&sortBy=${sortBy}&apiKey=${apiKey}`;
   
