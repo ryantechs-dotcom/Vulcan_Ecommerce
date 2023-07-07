@@ -14,9 +14,9 @@ const News = () => {
   const fetchData = async () => {
     await axios
     .get(url)
-    .then((res) => setData(res.data.articles))
+    .then((res) => console.log(res.data.articles))
     };
-
+    
     useEffect(() =>{
         fetchData();
     }, []);
